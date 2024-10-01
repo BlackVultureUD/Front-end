@@ -1,1 +1,0 @@
-print("halo dunia")         # baris ini dijalankan pertamagit 
